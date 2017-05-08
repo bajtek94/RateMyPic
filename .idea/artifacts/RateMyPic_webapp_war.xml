@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RateMyPic-webapp:war">
+    <output-path>$PROJECT_DIR$/RateMyPic-webapp/target</output-path>
+    <root id="archive" name="RateMyPic-webapp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="RateMyPic-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>
